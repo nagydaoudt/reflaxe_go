@@ -3,7 +3,7 @@
 	"description": "A custom Haxe target for Golang",
 	"classPath": "src/",
 	"dependencies": {
-		"reflaxe": "4.0.0-beta"
+		"reflaxe": ""
 	},
 	"url": "http://example.com",
 	"version": "0.0.1",
